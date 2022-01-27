@@ -2,7 +2,7 @@
 
 A command line tool to easily sync Nexpose scan engines to their consoles. 
 
-Nexpose is iCIMS vulnerability management solution. Scan engines are deployed throughout our organization to manage scanning assets for vulnerabilities. These engines then report back to a main hub called the console. This script is designed to help pair scan engines to their consoles without much human intervention. 
+Nexpose is vulnerability management solution. Scan engines are deployed throughout our organization to manage scanning assets for vulnerabilities. These engines then report back to a main hub called the console. This script is designed to help pair scan engines to their consoles without much human intervention. 
 
 ## Installation
 
